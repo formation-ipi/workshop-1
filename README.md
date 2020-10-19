@@ -10,3 +10,4 @@ L'exercice 1 correspond au clone du dépôt
 
 L'exercice 2 permet de connaitre le statut du dépôt
 
+Ok Google
