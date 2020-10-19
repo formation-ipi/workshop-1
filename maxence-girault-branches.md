@@ -1,14 +1,12 @@
 Mes remarques :
 	tout est parfait !
 
-remotes/origin/HEAD -> origin/master
-  remotes/origin/master
-  remotes/origin/sw-base-exercice-push
-  remotes/origin/sw-branching-exercice
-  remotes/origin/sw-merge
-  remotes/origin/sw-merge-ff
-  remotes/origin/sw-rebase
-  remotes/origin/sw-rebase-interactif
-  remotes/origin/test_branch
-
-
+  origin/HEAD -> origin/master
+  origin/master
+  origin/sw-base-exercice-push
+  origin/sw-branching-exercice
+  origin/sw-merge
+  origin/sw-merge-ff
+  origin/sw-rebase
+  origin/sw-rebase-interactif
+  origin/test_branch
